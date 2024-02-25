@@ -4,7 +4,7 @@ import {
     Routes,
     Route,
 } from "react-router-dom";
-import Teacher from './component/Teacher';
+import Teacher from './component/teacher/Teacher';
 import Student from './component/Student';
 
 const AppRoute = () => {
